@@ -1,1 +1,4 @@
 git_test.txt
+
+#ignore all txt files
+*.txt
